@@ -1,0 +1,15 @@
+{
+  "name": "hw2",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js file.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
